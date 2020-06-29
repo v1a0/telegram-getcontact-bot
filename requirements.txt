@@ -1,0 +1,14 @@
+aiogram==2.9.2
+aiohttp==3.6.2
+async-timeout==3.0.1
+attrs==19.3.0
+Babel==2.8.0
+certifi==2020.4.5.2
+chardet==3.0.4
+idna==2.9
+multidict==4.7.6
+pycryptodome==3.9.8
+pytz==2020.1
+requests==2.24.0
+urllib3==1.25.9
+yarl==1.4.2
