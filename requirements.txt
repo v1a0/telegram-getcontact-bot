@@ -10,6 +10,6 @@ multidict==4.7.6
 pycryptodome==3.9.8
 pytz==2020.1
 requests==2.24.0
-urllib3==1.25.9
+urllib3==1.26.5
 yarl==1.4.2
 
